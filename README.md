@@ -20,7 +20,6 @@ I combine financial acumen with a robust technical stack to build data-driven so
 * **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL), DAX
 * **Data Visualization:** Power BI, Excel (Advanced Modeling, Dashboarding)
 * **Tools:** Jupyter Notebooks, Git, Salesforce
-* **Machine Learning:** Scikit-learn (Linear/Logistic Regression, XG Boost, Random Forest)
 
 ### 📊 Featured Projects
 
