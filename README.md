@@ -1,5 +1,5 @@
 # Hi, I'm Stuart Paul 👋
-
+![swishpaul23's Stats](https://github-readme-stats.vercel.app/api?username=swishpaul23&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ### Finance Student | Aspiring Data Scientist | Fintech Enthusiast
 
 > *"What we do in this life echoes in eternity."*
