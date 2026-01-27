@@ -1,18 +1,42 @@
-## Hi there 👋
+# Hi, I'm Stuart Paul 👋
 
-<!--
-**swishpaul23/swishpaul23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Finance Student | Aspiring Data Scientist | Fintech Enthusiast
 
-Here are some ideas to get you started:
+> *"What we do in this life echoes in eternity."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a third-year **BBA Finance candidate** at the **Beedie School of Business** with a passion for the intersection of finance and technology. My focus is on leveraging **Python, Machine Learning, and Data Analytics** to solve complex financial problems and drive strategic decision-making.
 
+---
 
+### 🚀 What I'm Working On
+* **Robo-Advisor Portfolio Optimizer (R.A.P.O):** A Python-based quantitative tool that constructs risk-efficient portfolios using **Mean-Variance Optimization** and **Hierarchical Risk Parity (HRP)** machine learning techniques.
+* **Real Estate Yield Optimization (B2B Startup Concept):** I am currently developing a professional plan for a startup focused on optimizing yields for mid-sized real estate developers.
+* **Academic Deep Dives:** Currently applying advanced financial concepts from my **Investments** and **Corporate Finance** classes to real-world data models.
+
+### 🛠️ Languages & Tools
+I combine financial acumen with a robust technical stack to build data-driven solutions:
+
+* **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL), DAX
+* **Data Visualization:** Power BI, Excel (Advanced Modeling, Dashboarding)
+* **Tools:** Jupyter Notebooks, Git, Salesforce
+* **Machine Learning:** Scikit-learn (Linear/Logistic Regression, XG Boost, Random Forest)
+
+### 📊 Featured Projects
+
+#### [Robo-Advisor Portfolio Optimizer (R.A.P.O)](https://github.com/swishpaul23/R.A.P.O)
+* **Objective:** Construct risk-efficient portfolios and validate strategies against benchmarks like the S&P 500.
+* **Tech Stack:** Python, Streamlit, Pandas, NumPy.
+* **Key Features:**
+    * Implemented **Mean-Variance Optimization** for mathematical portfolio structuring.
+    * Utilized **Machine Learning (HRP)** for advanced risk clustering.
+    * Built a custom **back-testing module** and dynamic visualizations (Efficient Frontier, Dendrograms).
+
+### ⚡ Fun Facts & Interests
+* **Basketball:** I've been a competitive player for nearly a decade (Captain & Point Guard) and play 3x a week.
+* **Fitness:** Currently focused on strength training with a goal of hitting 12% body fat in 12 weeks.
+* **Other Interests:** Data Analysis, Cooking (ask me about my fried chicken wings), Sport Fishing, and Blues/Rock Guitar.
+
+### 📫 Connect with Me
+* **LinkedIn:** [linkedin.com/in/stuart-paul23](https://www.linkedin.com/in/stuart-paul23)
+---
+Thanks for visiting!
