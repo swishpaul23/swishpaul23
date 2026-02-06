@@ -11,7 +11,7 @@ I am a third-year **BBA Finance candidate** at the **Beedie School of Business**
 
 ### 🚀 What I'm Working On
 * **Robo-Advisor Portfolio Optimizer (R.A.P.O):** A Python-based quantitative tool that constructs risk-efficient portfolios using **Mean-Variance Optimization** and **Hierarchical Risk Parity (HRP)** machine learning techniques.
-* **Real Estate Yield Optimization (B2B Startup Concept):** I am currently developing a professional plan for a startup focused on optimizing yields for mid-sized real estate developers.
+* **Real Estate Yield Optimization:** I am currently developing a professional plan for a startup focused on optimizing yields for mid-sized real estate developers.
 * **Academic Deep Dives:** Currently applying advanced financial concepts from my **Investments** and **Corporate Finance** classes to real-world data models.
 
 ### 🛠️ Languages & Tools
