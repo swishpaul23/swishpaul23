@@ -39,4 +39,4 @@ I combine financial acumen with a robust technical stack to build data-driven so
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/stuart-paul23](https://www.linkedin.com/in/stuart-paul23)
 ---
-Thanks for visiting!
+Thanks for visiting !
