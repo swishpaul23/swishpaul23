@@ -1,42 +1,76 @@
-# Hi, I'm Stuart Paul 👋
-![swishpaul23's Stats](https://github-readme-stats.vercel.app/api?username=swishpaul23&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-![swishpaul23's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swishpaul23&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
-### Finance Student | Aspiring Data Scientist | Fintech Enthusiast
+<p align="center">
+  <img src="./assets/Recording 2026-06-09 214206.gif" width="100%" />
+</p>
 
-> *"What we do in this life echoes in eternity."*
-
-I am a third-year **BBA Finance candidate** at the **Beedie School of Business** with a passion for the intersection of finance and technology. My focus is on leveraging **Python, Machine Learning, and Data Analytics** to solve complex financial problems and drive strategic decision-making.
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=swishpaul23.swishpaul23" alt="Profile Views" />
+</p>
 
 ---
 
-### 🚀 What I'm Working On
-* **Robo-Advisor Portfolio Optimizer (R.A.P.O):** A Python-based quantitative tool that constructs risk-efficient portfolios using **Mean-Variance Optimization** and **Hierarchical Risk Parity (HRP)** machine learning techniques.
-* **Real Estate Yield Optimization:** I am currently developing a professional plan for a startup focused on optimizing yields for mid-sized real estate developers.
-* **Academic Deep Dives:** Currently applying advanced financial concepts from my **Investments** and **Corporate Finance** classes to real-world data models.
+## 𝚂𝚝𝚞𝚊𝚛𝚝 — Finance × Engineering
 
-### 🛠️ Languages & Tools
-I combine financial acumen with a robust technical stack to build data-driven solutions:
+## 👤 About Me
 
-* **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL), DAX
-* **Data Visualization:** Power BI, Excel (Advanced Modeling, Dashboarding)
-* **Tools:** Jupyter Notebooks, Git, Salesforce
+- 💻 Active software developer with **SFU Blueprint**
+- 🎓 Undergraduate in **BBA Finance @ SFU**
+- 🤖 Focused on **FinTech**, **quantitative development**, and **AI/ML engineering**
+- 🏀 Been playing competitive basketball for a decade
+- 📍 Based in Vancouver, BC
 
-### 📊 Featured Projects
-
-#### [Robo-Advisor Portfolio Optimizer (R.A.P.O)](https://github.com/swishpaul23/R.A.P.O)
-* **Objective:** Construct risk-efficient portfolios and validate strategies against benchmarks like the S&P 500.
-* **Tech Stack:** Python, Streamlit, Pandas, NumPy.
-* **Key Features:**
-    * Implemented **Mean-Variance Optimization** for mathematical portfolio structuring.
-    * Utilized **Machine Learning (HRP)** for advanced risk clustering.
-    * Built a custom **back-testing module** and dynamic visualizations (Efficient Frontier, Dendrograms).
-
-### ⚡ Fun Facts & Interests
-* **Basketball:** I've been a competitive player for nearly a decade (Captain & Point Guard) and play 3x a week.
-* **Fitness:** Currently focused on strength training with a goal of hitting 12% body fat in 12 weeks.
-* **Other Interests:** Data Analysis, Cooking (ask me about my fried chicken wings), Sport Fishing, and Blues/Rock Guitar.
-
-### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/stuart-paul23](https://www.linkedin.com/in/stuart-paul23)
 ---
-Thanks for visiting !
+
+## 🚀 Featured Projects
+
+### 🛡 Aegis — AI API Schema Protector
+`Python` `AI/ML` `REST APIs` `Data Pipelines`
+- Intelligent safety net that detects when third-party APIs rename or restructure fields overnight (e.g. `temp_celsius` → `temperature_c`)
+- Automatically remaps breaking schema changes, preventing pipeline crashes without human intervention
+- Eliminates 3AM on-call incidents where engineers manually patch and redeploy source code
+
+---
+
+### 📈 R.A.P.O. — Robo-Advisor Portfolio Optimizer
+`Python` `SciPy` `NumPy` `Monte Carlo` `REST API`
+- Architected a REST API data pipeline feeding a SciPy/HRP allocation engine to mitigate correlation breakdowns during market shocks
+- Built a vectorized NumPy/Pandas walk-forward backtester achieving a **30% Sharpe ratio improvement** and quantifying **95% Value at Risk (VaR)**
+- Engineered vectorized Monte Carlo simulations to probabilistically map the efficient frontier
+
+---
+
+### 🔥 FORGE — Habit Tracking & Discipline Platform
+`React` `Node.js` `Supabase` `Anthropic API`
+- Designed a Supabase Postgres schema with RLS isolation and Supabase Auth for secure multi-user session logging
+- Integrated the Anthropic Claude API for intelligent habit coaching and personalized user insights
+- Alpha-tested with **35 users over 3 weeks**, iterating on UX flows and resolving bugs prior to deployment
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swishpaul23&show_icons=true&theme=tokyonight&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&bg_color=0d1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swishpaul23&layout=compact&theme=tokyonight&hide_border=true&title_color=00B4D8&text_color=ffffff&bg_color=0d1117" height="160"/>
+</p>
+
+<!-- GitHub Metrics powered by https://github.com/lowlighter/metrics -->
+
+---
+
+## 📬 Reach Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/swishpaul23">
+    <img src="https://img.shields.io/badge/LinkedIn-Stuart-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/swishpaul23">
+    <img src="https://img.shields.io/badge/GitHub-swishpaul23-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊𝚝 𝚝𝚑𝚎 𝚒𝚗𝚝𝚎𝚛𝚜𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 𝚏𝚒𝚗𝚊𝚗𝚌𝚎 𝚊𝚗𝚍 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐.</sub>
+</p>
