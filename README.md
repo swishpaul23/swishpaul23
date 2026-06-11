@@ -68,9 +68,3 @@
     <img src="https://img.shields.io/badge/GitHub-swishpaul23-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <sub>𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊𝚝 𝚝𝚑𝚎 𝚒𝚗𝚝𝚎𝚛𝚜𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 𝚏𝚒𝚗𝚊𝚗𝚌𝚎 𝚊𝚗𝚍 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐.</sub>
-</p>
