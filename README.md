@@ -60,7 +60,7 @@
 ## 📬 Reach Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/stuart-paul23">
+  <a href="https://www.linkedin.com/in/stuart-paul23/">
     <img src="https://img.shields.io/badge/LinkedIn-Stuart-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
