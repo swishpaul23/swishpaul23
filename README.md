@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Recording 2026-06-09 214206.gif" width="100%" />
+  <img src="./assets/Recording 2026-06-09 214206.gif" width="100%" height="75%"/>
 </p>
 
 <p align="center">
@@ -45,17 +45,12 @@
 - Alpha-tested with **35 users over 3 weeks**, iterating on UX flows and resolving bugs prior to deployment
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swishpaul23&show_icons=true&theme=tokyonight&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&bg_color=0d1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swishpaul23&layout=compact&theme=tokyonight&hide_border=true&title_color=00B4D8&text_color=ffffff&bg_color=0d1117" height="160"/>
-</p>
-
-<!-- GitHub Metrics powered by https://github.com/lowlighter/metrics -->
-
----
+<a href="https://www.readmecodegen.com/custom-github-card-generator">
+  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=swishpaul23&stars=false&issues=false" alt="Custom GitHub Stats" />
+</a>
+<a href="https://www.readmecodegen.com/custom-github-card-generator">
+  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=swishpaul23&cardType=langs&stars=false&issues=false" alt="Custom GitHub Stats" />
+</a>
 
 ## 📬 Reach Me
 
