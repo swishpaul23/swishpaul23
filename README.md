@@ -45,12 +45,8 @@
 - Alpha-tested with **35 users over 3 weeks**, iterating on UX flows and resolving bugs prior to deployment
 
 ---
-<a href="https://www.readmecodegen.com/custom-github-card-generator">
-  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=swishpaul23&stars=false&issues=false" alt="Custom GitHub Stats" />
-</a>
-<a href="https://www.readmecodegen.com/custom-github-card-generator">
-  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=swishpaul23&cardType=langs&stars=false&issues=false" alt="Custom GitHub Stats" />
-</a>
+  [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=swishpaul23)](https://www.readmecodegen.com/custom-github-card-generator)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=swishpaul23&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
 
 ## 📬 Reach Me
 
